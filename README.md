@@ -8,7 +8,7 @@ swift build -c release
 
 ## ascii-print
 
-Print string in ASCII art style.
+Print string in ASCII art style. From Swift Document [Swift.org - Build a Command-line Tool](https://www.swift.org/getting-started/cli-swiftpm/)
 
 
 
@@ -25,7 +25,7 @@ Command in Intel Mac (change `x86_64-apple-macosx` for your platform):
 
 ## count
 
-Count words in files.
+Count words in files. From Apple Developer Documentation [Getting Started with ArgumentParser | Documentation](https://apple.github.io/swift-argument-parser/documentation/argumentparser/gettingstarted#Adding-ArgumentParser-as-a-Dependency).
 
 
 
