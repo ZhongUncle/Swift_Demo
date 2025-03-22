@@ -10,7 +10,7 @@ swift build -c release
 
 Print string in ASCII art style.
 
-### Usage 
+
 
 Command in Intel Mac (change `x86_64-apple-macosx` for your platform):
 
@@ -23,13 +23,11 @@ Command in Intel Mac (change `x86_64-apple-macosx` for your platform):
  |_| |_____| |____/ 
 ```
 
-
-
 ## count
 
 Count words in files.
 
-### Usage 
+
 
 Command in Intel Mac (change `x86_64-apple-macosx` for your platform):
 
