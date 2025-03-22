@@ -6,3 +6,4 @@
 *.bbl
 *.blg
 */.build/
+Package.resolved
